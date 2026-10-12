@@ -31,7 +31,7 @@ import java.util.function.Supplier;
 public class TmpServer {
     public static final String SESSION_USER_KEY = "user";
     private static final String PAGES_DIR = "/html" ;
-    private static final String TEMPLATES = "/templtes/";
+    private static final String TEMPLATES = "/templates/";
 
     private final Javalin appSever;
 
